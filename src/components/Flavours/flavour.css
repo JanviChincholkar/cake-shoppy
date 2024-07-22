@@ -1,0 +1,17 @@
+.flavourImg{
+    width: 150px;
+     height: 180px; 
+    
+}
+.flavorcard{
+    margin: 40px;
+      text-align: center;
+       width: 150px;
+       border-radius: 10px;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+       padding: 10px;
+       font-weight: bold;
+}
+.flavorcard:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
